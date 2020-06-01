@@ -7764,6 +7764,9 @@ Github 资源：
 
 ### 公众号
 
+* iOS开发by三掌柜
+![](https://ae01.alicdn.com/kf/Hb61b29763738446d88438cc8bd6028ecg.jpg)
+
 * iOS开发
 ![](https://s1.ax1x.com/2020/06/01/tGngPg.png)
 
