@@ -1,2 +1,4 @@
-# ios-awesome
-每位 iOS 从业者都值得收藏的资源列表，涵盖教程、框架、工具、网站、资讯等 4600+ 个资源，是目前市面上最全的 iOS 资源聚合文档。
+![](https://www.kcsou.com/awesome/img/awesome.svg) ![](https://www.kcsou.com/awesome/img/chinese.svg) ![](https://www.kcsou.com/awesome/img/platform-iOS-ff69b4.svg) ![](https://www.kcsou.com/awesome/img/language-Objective--C-orange.svg) ![](https://www.kcsou.com/awesome/img/language-Swift-abcdef.svg) ![](https://www.kcsou.com/awesome/img/language-JavaScript-yellow.svg)
+
+
+![ios开发者资源大全](https://www.kcsou.com/awesome/img/ios_logo.png)
