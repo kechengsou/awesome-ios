@@ -7762,7 +7762,10 @@ Github 资源：
 
 
 
-### 社会化媒体资源
+### 公众号
+
+* iOS开发
+![](https://s1.ax1x.com/2020/06/01/tGngPg.png)
 
 ### 微博
 
@@ -8097,8 +8100,4 @@ Github 资源：
 *  [Diffchecker](https://www.kcsou.com/awesome_si/7dM662XZ.htm) - 在线代码比对
 
 
-Github 资源：
 
-地址  | Stars/Siwft | 简介
-:---- | :--- | :----
-[OpenShop.io](https://www.kcsou.com/awesome_si/TGvx7bG3.htm)|★367|可以连接到 Facebook Ads 和 Google 的移动电子商务解决方案。
