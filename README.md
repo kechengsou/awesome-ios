@@ -10,6 +10,7 @@
 
 ---
 
+**由于内容比较长，GitHub项目首页文档显示不完整，完整版请点击 Github的这个地址:[https://github.com/kechengsou/awesome-ios/blob/master/README.md](https://github.com/kechengsou/awesome-ios/blob/master/README.md) **
 
 本文档针对市面上几乎所有和 iOS 开发相关的资源文档进行重新整理、融合和补充，更适合国内开发者。
 
